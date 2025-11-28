@@ -1,0 +1,26 @@
+{
+name: energy converter
+description: converts slag into liquid energy (main energy of this mod) also gives out a ton of energy because i want to make this mod a bit easier
+type: GenericCrafter
+health: 150
+size: 1
+category: crafting
+research: copper
+craftTime: 90
+craftEffect: reactorsmoke
+outputLiquid: energy/20
+
+consumes: {
+liquids: [
+slag/1
+]
+}
+
+requirements: [
+graphite/25
+metaglass/55
+silicon/35
+copper/10
+titanium/15
+]
+}
