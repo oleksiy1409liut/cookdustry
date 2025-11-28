@@ -1,0 +1,14 @@
+{
+name: energy
+description: used in the mod for better convenience and for liquid pipes to be like wires, also because im a lazy as-
+type: liquid
+temperature: 0
+viscosity: 0
+flammability: 0
+explosiveness: 0
+heatCapacity: 0
+color: B5B2A0
+lightColor: FFFCEC
+research: water
+gas: true
+}
