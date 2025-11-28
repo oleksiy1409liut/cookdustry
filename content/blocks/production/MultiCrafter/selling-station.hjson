@@ -1,0 +1,39 @@
+{
+name: selling station
+description: allows you to sell food items but also copper for some money
+type: multicraft.MultiCrafter
+health: 350
+size: 4
+category: crafting
+research: graphite
+requirements: [
+copper/100
+lead/50
+metaglass/30
+silicon/50
+titanium/30
+]
+
+recipes: [
+    {
+	input: {
+	 fluids: [cookdustry-energy/1]
+     items: [copper/10]
+	}
+	output: {
+	   items: [cookdustry-1-coin/1]
+	}
+	craftTime: 175
+	}
+    {
+	input: {
+	 fluids: [cookdustry-energy/1]
+     items: [cookdustry-cookie/2]
+	}
+	output: {
+	 fluids: [water/1]
+	}
+	craftTime: 175
+	}
+]	
+}
