@@ -1,0 +1,14 @@
+{
+type: material
+name: 1 coin
+description: the main currency of the mod, allows you to buy ingredients or items for your company, can be gathered by selling stuff, can be compressed later on
+cost: 3.0
+color: ffffff
+research: copper
+
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+hardness: 0
+}
