@@ -3,7 +3,7 @@ name: energy converter
 description: converts slag into liquid energy (main energy of this mod) also gives out a ton of energy because i want to make this mod a bit easier
 type: GenericCrafter
 health: 150
-size: 1
+size: 2
 category: crafting
 research: copper
 craftTime: 90
