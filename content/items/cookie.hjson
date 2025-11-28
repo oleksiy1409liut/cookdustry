@@ -1,0 +1,14 @@
+{
+type: material
+name: cookie
+description: a singular cookie baked from dough and chocolate dots, can be sold for a moderate amount of coins (not useful aall rn, just a example of the stuff in the mod)
+cost: 3.0
+color: ffffff
+research: 1-coin
+
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+hardness: 0
+}
