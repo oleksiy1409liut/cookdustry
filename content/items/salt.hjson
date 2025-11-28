@@ -1,0 +1,14 @@
+{
+type: material
+name: salt
+description: obtained either from buying or through a cleaning process of ore salt, can be sold for 2 times less than its price but if you set up a salt ore refinery it can give you starter profit
+cost: 3.0
+color: ffffff
+research: 1-coin
+
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+hardness: 0
+}
