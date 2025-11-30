@@ -1,0 +1,39 @@
+{
+name: selling station
+description: used to grow plants in any environment outside of it
+type: multicraft.MultiCrafter
+health: 350
+size: 6
+category: crafting
+research: titanium
+requirements: [
+copper/50
+lead/75
+metaglass/150
+silicon/65
+titanium/50
+]
+
+recipes: [
+    {
+	input: {
+	 fluids: [cookdustry-energy/1,water/2]
+     items: [wheat-seeds/10]
+	}
+	output: {
+	   items: [cookdustry-wheat/20]
+	}
+	craftTime: 175
+	}
+    {
+	input: {
+	 fluids: [cookdustry-energy/1]
+     items: [cookdustry-salt/50000000000]
+	}
+	output: {
+	 items: [cookdustry-1-coin/1]
+	}
+	craftTime: 175
+	}
+]	
+}
