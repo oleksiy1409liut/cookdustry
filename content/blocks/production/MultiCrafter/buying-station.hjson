@@ -27,11 +27,11 @@ recipes: [
 	}
     {
 	input: {
-	 fluids: [cookdustry-energy/10]
-     items: [cookdustry-1-coin/2000]
+	 fluids: [cookdustry-energy/0.5]
+     items: [cookdustry-1-coin/5]
 	}
 	output: {
-	 fluids: [cookdustry-cookie/1]
+	 items: [cookdustry-wheat-seeds/10]
 	}
 	craftTime: 175
 	}
