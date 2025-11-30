@@ -1,5 +1,5 @@
 {
-name: selling station
+name: greenhouse
 description: used to grow plants in any environment outside of it
 type: multicraft.MultiCrafter
 health: 350
@@ -28,7 +28,7 @@ recipes: [
     {
 	input: {
 	 fluids: [cookdustry-energy/1]
-     items: [cookdustry-salt/50000000000]
+     items: [cookdustry-salt/5000]
 	}
 	output: {
 	 items: [cookdustry-1-coin/1]
