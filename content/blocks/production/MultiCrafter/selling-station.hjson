@@ -28,10 +28,10 @@ recipes: [
     {
 	input: {
 	 fluids: [cookdustry-energy/1]
-     items: [cookdustry-cookie/2]
+     items: [cookdustry-salt/5]
 	}
 	output: {
-	 fluids: [water/1]
+	 items: [cookdustry-1-coin/1]
 	}
 	craftTime: 175
 	}
