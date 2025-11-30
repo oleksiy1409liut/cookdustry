@@ -1,0 +1,14 @@
+{
+type: material
+name: wheat
+description: can be grown on farms, cant be bought nor sold and used in flour
+cost: 3.0
+color: ffffff
+research: 1-coin
+
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+hardness: 0
+}
