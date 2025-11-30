@@ -1,0 +1,39 @@
+{
+name: buying station
+description: allows you to buy cooking ingredients for different prices
+type: multicraft.MultiCrafter
+health: 350
+size: 3
+category: crafting
+research: selling-station
+requirements: [
+copper/100
+lead/50
+metaglass/30
+silicon/50
+titanium/30
+]
+
+recipes: [
+    {
+	input: {
+	 fluids: [cookdustry-energy/0.5]
+     items: [cookdustry-1-coin/4]
+	}
+	output: {
+	   items: [cookdustry-salt/10]
+	}
+	craftTime: 80
+	}
+    {
+	input: {
+	 fluids: [cookdustry-energy/10]
+     items: [cookdustry-1-coin/2000]
+	}
+	output: {
+	 fluids: [cookdustry-cookie/1]
+	}
+	craftTime: 175
+	}
+]	
+}
