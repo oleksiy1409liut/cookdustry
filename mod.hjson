@@ -1,12 +1,12 @@
 name: "cookdustry"
 description: 
 ''' 
-mindustry with a shitton of cooking, currently is in VERY early development and prob will be atleast somehow playable around version 0.5 (0.01 rn) contact theavatar_of_emptiness for suggestions, bug reports or to join my discord server
+mindustry with a shitton of cooking, currently is in VERY early development and prob will be atleast somehow playable around version 0.5 contact theavatar_of_emptiness for suggestions, bug reports or to join my discord server
 the main premise of the mod is to create different foods, sell them and become the richest food company ever
 '''
 author: "Auvathia team's creator"
 minGameVersion: 146
 version: "alpha v0.01"
 displayName: "cookdustry"
-subtitle: ", 0.01 version, will have sandwiches later"
+subtitle: ", 0.02 version, grow le wheat"
 dependencies: ["multi-crafter"]
