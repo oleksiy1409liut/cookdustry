@@ -18,10 +18,10 @@ recipes: [
     {
 	input: {
 	 fluids: [cookdustry-energy/1,water/2]
-     items: [wheat-seeds/10]
+     items: [cookdustry-wheat-seeds/10]
 	}
 	output: {
-	   items: [cookdustry-wheat/20]
+	   items: [cookdustry-wheat/20,cookdustry-wheat-seeds/5]
 	}
 	craftTime: 175
 	}
