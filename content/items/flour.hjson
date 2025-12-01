@@ -1,0 +1,14 @@
+{
+type: material
+name: flour
+description: used in dough and can be sold, do not inhale
+cost: 3.0
+color: ffffff
+research: wheat
+
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+hardness: 0
+}
