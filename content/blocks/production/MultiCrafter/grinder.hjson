@@ -1,0 +1,39 @@
+{
+name: grinder
+description: can grind up various items like wheat
+type: multicraft.MultiCrafter
+health: 350
+size: 6
+category: crafting
+research: wheat
+requirements: [
+copper/50
+lead/75
+metaglass/150
+silicon/65
+titanium/50
+]
+
+recipes: [
+    {
+	input: {
+	 fluids: [cookdustry-energy/1]
+     items: [cookdustry-wheat/5]
+	}
+	output: {
+	   items: [cookdustry-flour/2]
+	}
+	craftTime: 100
+	}
+    {
+	input: {
+	 fluids: [cookdustry-energy/90000]
+     items: [cookdustry-salt/5]
+	}
+	output: {
+	 items: [cookdustry-1-coin/1]
+	}
+	craftTime: 175
+	}
+]	
+}
