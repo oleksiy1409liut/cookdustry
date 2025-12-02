@@ -18,7 +18,7 @@ recipes: [
     {
 	input: {
 	 fluids: [cookdustry-energy/0.5,cookdustry-milk/1]
-     items: [cookdustry-1-flour/4,cookdustry-egg/2]
+     items: [cookdustry-flour/4,cookdustry-egg/2]
 	}
 	output: {
 	   items: [cookdustry-dough/1]
