@@ -1,0 +1,39 @@
+{
+name: mixer
+description: mixes different products and items into other products
+type: multicraft.MultiCrafter
+health: 350
+size: 3
+category: crafting
+research: grinder
+requirements: [
+copper/100
+lead/50
+metaglass/30
+silicon/50
+titanium/30
+]
+
+recipes: [
+    {
+	input: {
+	 fluids: [cookdustry-energy/0.5,cookdustry-milk/1]
+     items: [cookdustry-1-flour/4,cookdustry-egg/2]
+	}
+	output: {
+	   items: [cookdustry-dough/1]
+	}
+	craftTime: 80
+	}
+    {
+	input: {
+	 fluids: [cookdustry-energy/0.5]
+     items: [cookdustry-1-coin/905]
+	}
+	output: {
+	 items: [cookdustry-wheat-seeds/1]
+	}
+	craftTime: 175
+	}
+]	
+}
