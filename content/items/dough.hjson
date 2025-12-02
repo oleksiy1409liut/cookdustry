@@ -1,7 +1,15 @@
+
 {
+type: material
 name: dough
 description: made from mixing water.milk and flour with eggs, used in all baked goods and has different types
-type: material
-color: B5B2A0
+cost: 3.0
+color: ffffff
 research: milk
+
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+hardness: 0
 }
